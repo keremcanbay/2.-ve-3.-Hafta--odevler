@@ -1,0 +1,6 @@
+C:\Users\yigit\source\repos\Soru 8\Soru 8\bin\Debug\Soru 8.exe.config
+C:\Users\yigit\source\repos\Soru 8\Soru 8\bin\Debug\Soru 8.exe
+C:\Users\yigit\source\repos\Soru 8\Soru 8\bin\Debug\Soru 8.pdb
+C:\Users\yigit\source\repos\Soru 8\Soru 8\obj\Debug\Soru 8.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Soru 8\Soru 8\obj\Debug\Soru 8.exe
+C:\Users\yigit\source\repos\Soru 8\Soru 8\obj\Debug\Soru 8.pdb

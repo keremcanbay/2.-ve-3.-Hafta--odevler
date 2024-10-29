@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Soru 2\Soru 2\bin\Debug\Soru 2.exe.config
+C:\Users\yigit\source\repos\Soru 2\Soru 2\bin\Debug\Soru 2.exe
+C:\Users\yigit\source\repos\Soru 2\Soru 2\bin\Debug\Soru 2.pdb
+C:\Users\yigit\source\repos\Soru 2\Soru 2\obj\Debug\Soru 2.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Soru 2\Soru 2\obj\Debug\Soru 2.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Soru 2\Soru 2\obj\Debug\Soru 2.exe
+C:\Users\yigit\source\repos\Soru 2\Soru 2\obj\Debug\Soru 2.pdb
